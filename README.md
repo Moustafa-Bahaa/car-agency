@@ -1,18 +1,8 @@
 ## :star2: About the Project
-carAgency is a web application built with Next.js and tailwindcss.
+carAgency is a web application built with Next.js , tailwindcss , headlessUi , typescript.
 
 ## <a href="https://car-agency-next.vercel.app/">LIVE DEMO 💥</a>
 
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://headlessui.com/">headlessUi.com</a></li>
-  </ul>
-</details>
 
 # 🏃‍♀️ Running
 
